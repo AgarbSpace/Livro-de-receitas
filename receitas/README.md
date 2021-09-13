@@ -1,3 +1,4 @@
 # Livro de receitas :man_cook:
 
-Bem vindo
+Bem vindo ao meu livro de receias
+
